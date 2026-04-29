@@ -1,3 +1,6 @@
+[![Python](https://img.shields.io/badge/python-3.10%2B-blue?style=flat-square&logo=python)](https://www.python.org/)
+[![Google ADK](https://img.shields.io/badge/Google%20ADK-latest-4285F4?style=flat-square&logo=google)](https://google.github.io/adk-docs/)
+
 # Installation
 
 ```
